@@ -1,0 +1,5 @@
+Hello there! This is a demonstration of human-like typing simulation. 
+
+The script types each character one by one, adding random delays to mimic natural typing speed. It even makes occasional typos (like this: ~) and corrects them automatically. 
+
+Feel free to modify this text or replace it with your own content. Enjoy!
