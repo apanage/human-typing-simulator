@@ -30,7 +30,7 @@ Install the required dependencies using pip:
     pip install keyboard
 
 Installation for Kali Linux:
-    sudo pip3 install pyautogui
+     sudo pip3 install pyautogui
      test.py code:
       #!/usr/bin/env python3
       
