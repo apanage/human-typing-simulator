@@ -25,7 +25,7 @@ A Python script that simulates human-like typing by typing text character by cha
 ### For Windows 10/11:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/human-typing-simulator.git
+   git clone https://github.com/apanage/human-typing-simulator.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -39,7 +39,7 @@ A Python script that simulates human-like typing by typing text character by cha
 ### For Kali Linux:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/human-typing-simulator.git
+   git clone https://github.com/apanage/human-typing-simulator.git
    ```
 2. Navigate to the project directory:
    ```bash
